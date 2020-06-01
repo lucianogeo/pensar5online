@@ -7,12 +7,12 @@ const roomFilePath = "../file/matrix.room.web.json";
 
 const createRoomFileSync = () => {
   const niceNames = [
-    "Bem Vindo 1 ano Pensar",
-    "1 ano - Sala1",
-    "1 ano - Sala2",
-    "1 ano - Sala3",
-    "1 ano - Sala4",
-    "1 ano - Sala5",
+    "Bem Vindo 5 ano - Pensar",
+    "5 ano - Sala 1",
+    "5 ano - Sala 2",
+    "5 ano - Sala 3",
+    "5 ano - Sala 4",
+    "5 ano - Sala 5",
     "Coordenacao",
     "Reuniao de Pais",
     "Diretoria",
